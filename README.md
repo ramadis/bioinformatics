@@ -1,8 +1,13 @@
 # BRCA1 & BRCA2 bioinformatic analysis
 
-### Run
+### Set up
 
 ```sh
 bundle install --path ./vendor/bundle
-bundle exec ruby file.rb
+```
+
+### Excersise 1
+
+```
+bundle exec ruby Ex1.rb BRCA1.gb
 ```

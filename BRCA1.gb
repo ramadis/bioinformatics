@@ -1,0 +1,914 @@
+LOCUS       NM_007294               7224 bp    mRNA    linear   PRI 29-MAR-2018
+DEFINITION  Homo sapiens BRCA1, DNA repair associated (BRCA1), transcript
+            variant 1, mRNA.
+ACCESSION   NM_007294
+VERSION     NM_007294.3
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 7224)
+  AUTHORS   Orban TI and Olah E.
+  TITLE     Emerging roles of BRCA1 alternative splicing
+  JOURNAL   MP, Mol. Pathol. 56 (4), 191-197 (2003)
+   PUBMED   12890739
+  REMARK    Review article
+REFERENCE   2  (bases 1 to 7224)
+  AUTHORS   Orban TI and Olah E.
+  TITLE     Expression profiles of BRCA1 splice variants in asynchronous and in
+            G1/S synchronized tumor cell lines
+  JOURNAL   Biochem. Biophys. Res. Commun. 280 (1), 32-38 (2001)
+   PUBMED   11162473
+REFERENCE   3  (bases 1 to 7224)
+  AUTHORS   Paterson JW.
+  TITLE     BRCA1: a review of structure and putative functions
+  JOURNAL   Dis. Markers 13 (4), 261-274 (1998)
+   PUBMED   9553742
+  REMARK    Review article
+REFERENCE   4  (bases 1 to 7224)
+  AUTHORS   Xu CF, Chambers JA, Nicolai H, Brown MA, Hujeirat Y, Mohammed S,
+            Hodgson S, Kelsell DP, Spurr NK, Bishop DT and Solomon E.
+  TITLE     Mutations and alternative splicing of the BRCA1 gene in UK
+            breast/ovarian cancer families
+  JOURNAL   Genes Chromosomes Cancer 18 (2), 102-110 (1997)
+   PUBMED   9115959
+REFERENCE   5  (bases 1 to 7224)
+  AUTHORS   Wilson CA, Payton MN, Elliott GS, Buaas FW, Cajulis EE, Grosshans
+            D, Ramos L, Reese DM, Slamon DJ and Calzone FJ.
+  TITLE     Differential subcellular localization, expression and biological
+            toxicity of BRCA1 and the splice variant BRCA1-delta11b
+  JOURNAL   Oncogene 14 (1), 1-16 (1997)
+   PUBMED   9010228
+REFERENCE   6  (bases 1 to 7224)
+  AUTHORS   Thakur S, Zhang HB, Peng Y, Le H, Carroll B, Ward T, Yao J, Farid
+            LM, Couch FJ, Wilson RB and Weber BL.
+  TITLE     Localization of BRCA1 and a splice variant identifies the nuclear
+            localization signal
+  JOURNAL   Mol. Cell. Biol. 17 (1), 444-452 (1997)
+   PUBMED   8972225
+REFERENCE   7  (bases 1 to 7224)
+  AUTHORS   Lu M, Conzen SD, Cole CN and Arrick BA.
+  TITLE     Characterization of functional messenger RNA splice variants of
+            BRCA1 expressed in nonmalignant and tumor-derived breast cells
+  JOURNAL   Cancer Res. 56 (20), 4578-4581 (1996)
+   PUBMED   8840964
+REFERENCE   8  (bases 1 to 7224)
+  AUTHORS   Holt JT, Thompson ME, Szabo C, Robinson-Benion C, Arteaga CL, King
+            MC and Jensen RA.
+  TITLE     Growth retardation and tumour inhibition by BRCA1
+  JOURNAL   Nat. Genet. 12 (3), 298-302 (1996)
+   PUBMED   8589721
+  REMARK    Erratum:[Nat Genet 1998 May;19(1):102]
+REFERENCE   9  (bases 1 to 7224)
+  AUTHORS   Xu CF, Brown MA, Chambers JA, Griffiths B, Nicolai H and Solomon E.
+  TITLE     Distinct transcription start sites generate two forms of BRCA1 mRNA
+  JOURNAL   Hum. Mol. Genet. 4 (12), 2259-2264 (1995)
+   PUBMED   8634696
+REFERENCE   10 (bases 1 to 7224)
+  AUTHORS   Miki Y, Swensen J, Shattuck-Eidens D, Futreal PA, Harshman K,
+            Tavtigian S, Liu Q, Cochran C, Bennett LM, Ding W et al.
+  TITLE     A strong candidate for the breast and ovarian cancer susceptibility
+            gene BRCA1
+  JOURNAL   Science 266 (5182), 66-71 (1994)
+   PUBMED   7545954
+REFERENCE   11 (bases 1 to 7224)
+  AUTHORS   Petrucelli,N., Daly,M.B. and Pal,T.
+  TITLE     BRCA1- and BRCA2-Associated Hereditary Breast and Ovarian Cancer
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301425
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AL701927.1, U14680.1,
+            BC072418.1, BU617173.1 and BU679389.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On May 19, 2009 this sequence version replaced NM_007294.2.
+            
+            Summary: This gene encodes a nuclear phosphoprotein that plays a
+            role in maintaining genomic stability, and it also acts as a tumor
+            suppressor. The encoded protein combines with other tumor
+            suppressors, DNA damage sensors, and signal transducers to form a
+            large multi-subunit protein complex known as the BRCA1-associated
+            genome surveillance complex (BASC). This gene product associates
+            with RNA polymerase II, and through the C-terminal domain, also
+            interacts with histone deacetylase complexes. This protein thus
+            plays a role in transcription, DNA repair of double-stranded
+            breaks, and recombination. Mutations in this gene are responsible
+            for approximately 40% of inherited breast cancers and more than 80%
+            of inherited breast and ovarian cancers. Alternative splicing plays
+            a role in modulating the subcellular localization and physiological
+            function of this gene. Many alternatively spliced transcript
+            variants, some of which are disease-associated mutations, have been
+            described for this gene, but the full-length natures of only some
+            of these variants has been described. A related pseudogene, which
+            is also located on chromosome 17, has been identified. [provided by
+            RefSeq, May 2009].
+            
+            Transcript Variant: This variant (1, also known as BRCA1a)
+            represents the more frequently occurring transcript. It encodes the
+            full-length BRCA1 protein (isoform 1), which is also known as p220.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: U14680.1 [ECO:0000332]
+            RNAseq introns              :: mixed/partial sample support
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000350]
+            ##Evidence-Data-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-143               AL701927.1         1-143
+            144-5824            U14680.1           31-5711
+            5825-6573           BC072418.1         2401-3149
+            6574-7205           BU617173.1         19-650              c
+            7206-7224           BU679389.1         1-19                c
+FEATURES             Location/Qualifiers
+     source          1..7224
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="17"
+                     /map="17q21.31"
+     gene            1..7224
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /note="BRCA1, DNA repair associated"
+                     /db_xref="GeneID:672"
+                     /db_xref="HGNC:HGNC:1100"
+                     /db_xref="MIM:113705"
+     exon            1..213
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    93
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /note="alternative transcription start site"
+     STS             184..1651
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /db_xref="UniSTS:482866"
+     misc_feature    209..211
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /note="upstream in-frame stop codon"
+     exon            214..312
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             233..5824
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /EC_number="2.3.2.27"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     BRCA1/BRCA2-containing complex, subunit 1; RING finger
+                     protein 53; breast cancer type 1 susceptibility protein;
+                     breast and ovarian cancer susceptibility protein 1;
+                     protein phosphatase 1, regulatory subunit 53; Fanconi
+                     anemia, complementation group S; early onset breast cancer
+                     1; breast cancer 1, early onset"
+                     /codon_start=1
+                     /product="breast cancer type 1 susceptibility protein
+                     isoform 1"
+                     /protein_id="NP_009225.1"
+                     /db_xref="CCDS:CCDS11453.1"
+                     /db_xref="GeneID:672"
+                     /db_xref="HGNC:HGNC:1100"
+                     /db_xref="MIM:113705"
+                     /translation="MDLSALRVEEVQNVINAMQKILECPICLELIKEPVSTKCDHIFC
+                     KFCMLKLLNQKKGPSQCPLCKNDITKRSLQESTRFSQLVEELLKIICAFQLDTGLEYA
+                     NSYNFAKKENNSPEHLKDEVSIIQSMGYRNRAKRLLQSEPENPSLQETSLSVQLSNLG
+                     TVRTLRTKQRIQPQKTSVYIELGSDSSEDTVNKATYCSVGDQELLQITPQGTRDEISL
+                     DSAKKAACEFSETDVTNTEHHQPSNNDLNTTEKRAAERHPEKYQGSSVSNLHVEPCGT
+                     NTHASSLQHENSSLLLTKDRMNVEKAEFCNKSKQPGLARSQHNRWAGSKETCNDRRTP
+                     STEKKVDLNADPLCERKEWNKQKLPCSENPRDTEDVPWITLNSSIQKVNEWFSRSDEL
+                     LGSDDSHDGESESNAKVADVLDVLNEVDEYSGSSEKIDLLASDPHEALICKSERVHSK
+                     SVESNIEDKIFGKTYRKKASLPNLSHVTENLIIGAFVTEPQIIQERPLTNKLKRKRRP
+                     TSGLHPEDFIKKADLAVQKTPEMINQGTNQTEQNGQVMNITNSGHENKTKGDSIQNEK
+                     NPNPIESLEKESAFKTKAEPISSSISNMELELNIHNSKAPKKNRLRRKSSTRHIHALE
+                     LVVSRNLSPPNCTELQIDSCSSSEEIKKKKYNQMPVRHSRNLQLMEGKEPATGAKKSN
+                     KPNEQTSKRHDSDTFPELKLTNAPGSFTKCSNTSELKEFVNPSLPREEKEEKLETVKV
+                     SNNAEDPKDLMLSGERVLQTERSVESSSISLVPGTDYGTQESISLLEVSTLGKAKTEP
+                     NKCVSQCAAFENPKGLIHGCSKDNRNDTEGFKYPLGHEVNHSRETSIEMEESELDAQY
+                     LQNTFKVSKRQSFAPFSNPGNAEEECATFSAHSGSLKKQSPKVTFECEQKEENQGKNE
+                     SNIKPVQTVNITAGFPVVGQKDKPVDNAKCSIKGGSRFCLSSQFRGNETGLITPNKHG
+                     LLQNPYRIPPLFPIKSFVKTKCKKNLLEENFEEHSMSPEREMGNENIPSTVSTISRNN
+                     IRENVFKEASSSNINEVGSSTNEVGSSINEIGSSDENIQAELGRNRGPKLNAMLRLGV
+                     LQPEVYKQSLPGSNCKHPEIKKQEYEEVVQTVNTDFSPYLISDNLEQPMGSSHASQVC
+                     SETPDDLLDDGEIKEDTSFAENDIKESSAVFSKSVQKGELSRSPSPFTHTHLAQGYRR
+                     GAKKLESSEENLSSEDEELPCFQHLLFGKVNNIPSQSTRHSTVATECLSKNTEENLLS
+                     LKNSLNDCSNQVILAKASQEHHLSEETKCSASLFSSQCSELEDLTANTNTQDPFLIGS
+                     SKQMRHQSESQGVGLSDKELVSDDEERGTGLEENNQEEQSMDSNLGEAASGCESETSV
+                     SEDCSGLSSQSDILTTQQRDTMQHNLIKLQQEMAELEAVLEQHGSQPSNSYPSIISDS
+                     SALEDLRNPEQSTSEKAVLTSQKSSEYPISQNPEGLSADKFEVSADSSTSKNKEPGVE
+                     RSSPSKCPSLDDRWYMHSCSGSLQNRNYPSQEELIKVVDVEEQQLEESGPHDLTETSY
+                     LPRQDLEGTPYLESGISLFSDDPESDPSEDRAPESARVGNIPSSTSALKVPQLKVAES
+                     AQSPAAAHTTDTAGYNAMEESVSREKPELTASTERVNKRMSMVVSGLTPEEFMLVYKF
+                     ARKHHITLTNLITEETTHVVMKTDAEFVCERTLKYFLGIAGGKWVVSYFWVTQSIKER
+                     KMLNEHDFEVRGDVVNGRNHQGPKRARESQDRKIFRGLEICCYGPFTNMPTDQLEWMV
+                     QLCGASVVKELSSFTLGTGVHPIVVVQPDAWTEDNGFHAIGQMCEAPVVTREWVLDSV
+                     ALYQCQELDTYLIPQIPHSHY"
+     misc_feature    233..235
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-acetylmethionine. {ECO:0000244|PubMed:22814378};
+                     propagated from UniProtKB/Swiss-Prot (P38398.2);
+                     acetylation site"
+     misc_feature    572..574
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:20068231,
+                     ECO:0000244|PubMed:21406692, ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (P38398.2);
+                     phosphorylation site"
+     misc_feature    1154..1156
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine, by AURKA.
+                     {ECO:0000269|PubMed:14990569}; propagated from
+                     UniProtKB/Swiss-Prot (P38398.2); phosphorylation site"
+     misc_feature    1415..1417
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:18669648,
+                     ECO:0000244|PubMed:19690332}; propagated from
+                     UniProtKB/Swiss-Prot (P38398.2); phosphorylation site"
+     misc_feature    1424..1426
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:18669648,
+                     ECO:0000244|PubMed:19690332}; propagated from
+                     UniProtKB/Swiss-Prot (P38398.2); phosphorylation site"
+     misc_feature    1499..1501
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:20068231};
+                     propagated from UniProtKB/Swiss-Prot (P38398.2);
+                     phosphorylation site"
+     misc_feature    1532..1534
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (P38398.2);
+                     phosphorylation site"
+     misc_feature    1883..1885
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (P38398.2);
+                     phosphorylation site"
+     misc_feature    2312..2314
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:20068231,
+                     ECO:0000244|PubMed:23186163}; propagated from
+                     UniProtKB/Swiss-Prot (P38398.2); phosphorylation site"
+     misc_feature    2354..2356
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (P38398.2);
+                     phosphorylation site"
+     misc_feature    2405..2407
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P48754};
+                     propagated from UniProtKB/Swiss-Prot (P38398.2);
+                     phosphorylation site"
+     misc_feature    2489..2491
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:18669648};
+                     propagated from UniProtKB/Swiss-Prot (P38398.2);
+                     phosphorylation site"
+     misc_feature    2750..2752
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P48754};
+                     propagated from UniProtKB/Swiss-Prot (P38398.2);
+                     phosphorylation site"
+     misc_feature    3194..3196
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine, by CHEK2.
+                     {ECO:0000269|PubMed:10724175,
+                     ECO:0000269|PubMed:20364141}; propagated from
+                     UniProtKB/Swiss-Prot (P38398.2); phosphorylation site"
+     misc_feature    3257..3259
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (P38398.2);
+                     phosphorylation site"
+     misc_feature    3659..3661
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine, by ATR, in vitro.
+                     {ECO:0000269|PubMed:11114888}; propagated from
+                     UniProtKB/Swiss-Prot (P38398.2); phosphorylation site"
+     misc_feature    3797..3799
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (P38398.2);
+                     phosphorylation site"
+     misc_feature    3803..3805
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (P38398.2);
+                     phosphorylation site"
+     misc_feature    3863..3865
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:18669648};
+                     propagated from UniProtKB/Swiss-Prot (P38398.2);
+                     phosphorylation site"
+     misc_feature    3881..3883
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:18669648};
+                     propagated from UniProtKB/Swiss-Prot (P38398.2);
+                     phosphorylation site"
+     misc_feature    3884..3886
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:18669648,
+                     ECO:0000244|PubMed:21406692}; propagated from
+                     UniProtKB/Swiss-Prot (P38398.2); phosphorylation site"
+     misc_feature    4070..4072
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine, by ATR, in vitro.
+                     {ECO:0000269|PubMed:11114888}; propagated from
+                     UniProtKB/Swiss-Prot (P38398.2); phosphorylation site"
+     misc_feature    4214..4216
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:20068231};
+                     propagated from UniProtKB/Swiss-Prot (P38398.2);
+                     phosphorylation site"
+     misc_feature    4238..4240
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:17081983,
+                     ECO:0000244|PubMed:20068231, ECO:0000244|PubMed:21406692};
+                     propagated from UniProtKB/Swiss-Prot (P38398.2);
+                     phosphorylation site"
+     misc_feature    4256..4258
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:20068231,
+                     ECO:0000244|PubMed:21406692}; propagated from
+                     UniProtKB/Swiss-Prot (P38398.2); phosphorylation site"
+     misc_feature    4391..4393
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine, by ATM and ATR.
+                     {ECO:0000269|PubMed:11114888}; propagated from
+                     UniProtKB/Swiss-Prot (P38398.2); phosphorylation site"
+     misc_feature    4412..4414
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine, by ATR, in vitro.
+                     {ECO:0000269|PubMed:11114888}; propagated from
+                     UniProtKB/Swiss-Prot (P38398.2); phosphorylation site"
+     misc_feature    4421..4504
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P38398.2);
+                     Region: Interaction with PALB2.
+                     {ECO:0000269|PubMed:19369211}"
+     misc_feature    4499..4501
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine, by ATM and ATR.
+                     {ECO:0000269|PubMed:11114888}; propagated from
+                     UniProtKB/Swiss-Prot (P38398.2); phosphorylation site"
+     misc_feature    4601..4603
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine, by ATR, in vitro.
+                     {ECO:0000269|PubMed:11114888}; propagated from
+                     UniProtKB/Swiss-Prot (P38398.2); phosphorylation site"
+     misc_feature    4802..4804
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine, by ATM.
+                     {ECO:0000269|PubMed:21144835}; propagated from
+                     UniProtKB/Swiss-Prot (P38398.2); phosphorylation site"
+     misc_feature    4856..4858
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (P38398.2);
+                     phosphorylation site"
+     exon            313..366
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            367..444
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            445..533
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            534..673
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            674..779
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            780..825
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            826..902
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            903..4328
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /inference="alignment:Splign:2.1.0"
+     STS             909..1077
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /standard_name="GDB:454227"
+                     /db_xref="UniSTS:157424"
+     STS             996..1234
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /standard_name="GDB:454278"
+                     /db_xref="UniSTS:157425"
+     STS             1159..1436
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /standard_name="GDB:454349"
+                     /db_xref="UniSTS:157426"
+     STS             1299..1543
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /standard_name="GDB:454353"
+                     /db_xref="UniSTS:157427"
+     STS             1465..1730
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /standard_name="GDB:454372"
+                     /db_xref="UniSTS:157428"
+     STS             1685..1947
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /standard_name="GDB:454381"
+                     /db_xref="UniSTS:157429"
+     STS             1844..2087
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /standard_name="GDB:454417"
+                     /db_xref="UniSTS:157430"
+     STS             2031..2329
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /standard_name="GDB:454421"
+                     /db_xref="UniSTS:157431"
+     STS             2255..2510
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /standard_name="GDB:454425"
+                     /db_xref="UniSTS:157432"
+     STS             2394..2617
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /standard_name="GDB:454429"
+                     /db_xref="UniSTS:157433"
+     STS             2561..2830
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /standard_name="GDB:454433"
+                     /db_xref="UniSTS:157434"
+     STS             2748..3061
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /standard_name="GDB:454437"
+                     /db_xref="UniSTS:157435"
+     STS             2774..3016
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /standard_name="PMC13918P1"
+                     /db_xref="UniSTS:270877"
+     STS             3013..3318
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /standard_name="GDB:454441"
+                     /db_xref="UniSTS:157436"
+     STS             3284..3661
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /standard_name="GDB:454446"
+                     /db_xref="UniSTS:157437"
+     STS             3526..3850
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /standard_name="GDB:454450"
+                     /db_xref="UniSTS:157438"
+     STS             3796..4084
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /standard_name="BRCA1"
+                     /db_xref="UniSTS:262743"
+     STS             3799..4072
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /standard_name="GDB:454454"
+                     /db_xref="UniSTS:157439"
+     STS             3808..4067
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /standard_name="PMC310899P3"
+                     /db_xref="UniSTS:272805"
+     STS             3901..4196
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /standard_name="G60034"
+                     /db_xref="UniSTS:137300"
+     STS             3909..4067
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /standard_name="PMC310899P2"
+                     /db_xref="UniSTS:272804"
+     STS             3973..4181
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /standard_name="GDB:454458"
+                     /db_xref="UniSTS:157440"
+     STS             4109..4326
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /standard_name="GDB:454462"
+                     /db_xref="UniSTS:157441"
+     exon            4329..4417
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4418..4589
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4590..4716
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4717..4907
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4908..5218
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            5219..5306
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            5307..5384
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            5385..5425
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            5426..5509
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            5510..5564
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            5565..5638
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            5639..5699
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            5700..7207
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /inference="alignment:Splign:2.1.0"
+     STS             5746..5881
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /standard_name="PMC310899P11"
+                     /db_xref="UniSTS:272801"
+     STS             5872..6109
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /standard_name="RH79896"
+                     /db_xref="UniSTS:90392"
+     STS             6374..7203
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /standard_name="BRCA1_4046"
+                     /db_xref="UniSTS:464465"
+     STS             6554..6633
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+                     /standard_name="D5S1597E"
+                     /db_xref="UniSTS:151019"
+     regulatory      7182..7187
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+     polyA_site      7207
+                     /gene="BRCA1"
+                     /gene_synonym="BRCAI; BRCC1; BROVCA1; FANCS; IRIS; PNCA4;
+                     PPP1R53; PSCP; RNF53"
+ORIGIN      
+        1 gtaccttgat ttcgtattct gagaggctgc tgcttagcgg tagccccttg gtttccgtgg
+       61 caacggaaaa gcgcgggaat tacagataaa ttaaaactgc gactgcgcgg cgtgagctcg
+      121 ctgagacttc ctggacgggg gacaggctgt ggggtttctc agataactgg gcccctgcgc
+      181 tcaggaggcc ttcaccctct gctctgggta aagttcattg gaacagaaag aaatggattt
+      241 atctgctctt cgcgttgaag aagtacaaaa tgtcattaat gctatgcaga aaatcttaga
+      301 gtgtcccatc tgtctggagt tgatcaagga acctgtctcc acaaagtgtg accacatatt
+      361 ttgcaaattt tgcatgctga aacttctcaa ccagaagaaa gggccttcac agtgtccttt
+      421 atgtaagaat gatataacca aaaggagcct acaagaaagt acgagattta gtcaacttgt
+      481 tgaagagcta ttgaaaatca tttgtgcttt tcagcttgac acaggtttgg agtatgcaaa
+      541 cagctataat tttgcaaaaa aggaaaataa ctctcctgaa catctaaaag atgaagtttc
+      601 tatcatccaa agtatgggct acagaaaccg tgccaaaaga cttctacaga gtgaacccga
+      661 aaatccttcc ttgcaggaaa ccagtctcag tgtccaactc tctaaccttg gaactgtgag
+      721 aactctgagg acaaagcagc ggatacaacc tcaaaagacg tctgtctaca ttgaattggg
+      781 atctgattct tctgaagata ccgttaataa ggcaacttat tgcagtgtgg gagatcaaga
+      841 attgttacaa atcacccctc aaggaaccag ggatgaaatc agtttggatt ctgcaaaaaa
+      901 ggctgcttgt gaattttctg agacggatgt aacaaatact gaacatcatc aacccagtaa
+      961 taatgatttg aacaccactg agaagcgtgc agctgagagg catccagaaa agtatcaggg
+     1021 tagttctgtt tcaaacttgc atgtggagcc atgtggcaca aatactcatg ccagctcatt
+     1081 acagcatgag aacagcagtt tattactcac taaagacaga atgaatgtag aaaaggctga
+     1141 attctgtaat aaaagcaaac agcctggctt agcaaggagc caacataaca gatgggctgg
+     1201 aagtaaggaa acatgtaatg ataggcggac tcccagcaca gaaaaaaagg tagatctgaa
+     1261 tgctgatccc ctgtgtgaga gaaaagaatg gaataagcag aaactgccat gctcagagaa
+     1321 tcctagagat actgaagatg ttccttggat aacactaaat agcagcattc agaaagttaa
+     1381 tgagtggttt tccagaagtg atgaactgtt aggttctgat gactcacatg atggggagtc
+     1441 tgaatcaaat gccaaagtag ctgatgtatt ggacgttcta aatgaggtag atgaatattc
+     1501 tggttcttca gagaaaatag acttactggc cagtgatcct catgaggctt taatatgtaa
+     1561 aagtgaaaga gttcactcca aatcagtaga gagtaatatt gaagacaaaa tatttgggaa
+     1621 aacctatcgg aagaaggcaa gcctccccaa cttaagccat gtaactgaaa atctaattat
+     1681 aggagcattt gttactgagc cacagataat acaagagcgt cccctcacaa ataaattaaa
+     1741 gcgtaaaagg agacctacat caggccttca tcctgaggat tttatcaaga aagcagattt
+     1801 ggcagttcaa aagactcctg aaatgataaa tcagggaact aaccaaacgg agcagaatgg
+     1861 tcaagtgatg aatattacta atagtggtca tgagaataaa acaaaaggtg attctattca
+     1921 gaatgagaaa aatcctaacc caatagaatc actcgaaaaa gaatctgctt tcaaaacgaa
+     1981 agctgaacct ataagcagca gtataagcaa tatggaactc gaattaaata tccacaattc
+     2041 aaaagcacct aaaaagaata ggctgaggag gaagtcttct accaggcata ttcatgcgct
+     2101 tgaactagta gtcagtagaa atctaagccc acctaattgt actgaattgc aaattgatag
+     2161 ttgttctagc agtgaagaga taaagaaaaa aaagtacaac caaatgccag tcaggcacag
+     2221 cagaaaccta caactcatgg aaggtaaaga acctgcaact ggagccaaga agagtaacaa
+     2281 gccaaatgaa cagacaagta aaagacatga cagcgatact ttcccagagc tgaagttaac
+     2341 aaatgcacct ggttctttta ctaagtgttc aaataccagt gaacttaaag aatttgtcaa
+     2401 tcctagcctt ccaagagaag aaaaagaaga gaaactagaa acagttaaag tgtctaataa
+     2461 tgctgaagac cccaaagatc tcatgttaag tggagaaagg gttttgcaaa ctgaaagatc
+     2521 tgtagagagt agcagtattt cattggtacc tggtactgat tatggcactc aggaaagtat
+     2581 ctcgttactg gaagttagca ctctagggaa ggcaaaaaca gaaccaaata aatgtgtgag
+     2641 tcagtgtgca gcatttgaaa accccaaggg actaattcat ggttgttcca aagataatag
+     2701 aaatgacaca gaaggcttta agtatccatt gggacatgaa gttaaccaca gtcgggaaac
+     2761 aagcatagaa atggaagaaa gtgaacttga tgctcagtat ttgcagaata cattcaaggt
+     2821 ttcaaagcgc cagtcatttg ctccgttttc aaatccagga aatgcagaag aggaatgtgc
+     2881 aacattctct gcccactctg ggtccttaaa gaaacaaagt ccaaaagtca cttttgaatg
+     2941 tgaacaaaag gaagaaaatc aaggaaagaa tgagtctaat atcaagcctg tacagacagt
+     3001 taatatcact gcaggctttc ctgtggttgg tcagaaagat aagccagttg ataatgccaa
+     3061 atgtagtatc aaaggaggct ctaggttttg tctatcatct cagttcagag gcaacgaaac
+     3121 tggactcatt actccaaata aacatggact tttacaaaac ccatatcgta taccaccact
+     3181 ttttcccatc aagtcatttg ttaaaactaa atgtaagaaa aatctgctag aggaaaactt
+     3241 tgaggaacat tcaatgtcac ctgaaagaga aatgggaaat gagaacattc caagtacagt
+     3301 gagcacaatt agccgtaata acattagaga aaatgttttt aaagaagcca gctcaagcaa
+     3361 tattaatgaa gtaggttcca gtactaatga agtgggctcc agtattaatg aaataggttc
+     3421 cagtgatgaa aacattcaag cagaactagg tagaaacaga gggccaaaat tgaatgctat
+     3481 gcttagatta ggggttttgc aacctgaggt ctataaacaa agtcttcctg gaagtaattg
+     3541 taagcatcct gaaataaaaa agcaagaata tgaagaagta gttcagactg ttaatacaga
+     3601 tttctctcca tatctgattt cagataactt agaacagcct atgggaagta gtcatgcatc
+     3661 tcaggtttgt tctgagacac ctgatgacct gttagatgat ggtgaaataa aggaagatac
+     3721 tagttttgct gaaaatgaca ttaaggaaag ttctgctgtt tttagcaaaa gcgtccagaa
+     3781 aggagagctt agcaggagtc ctagcccttt cacccataca catttggctc agggttaccg
+     3841 aagaggggcc aagaaattag agtcctcaga agagaactta tctagtgagg atgaagagct
+     3901 tccctgcttc caacacttgt tatttggtaa agtaaacaat ataccttctc agtctactag
+     3961 gcatagcacc gttgctaccg agtgtctgtc taagaacaca gaggagaatt tattatcatt
+     4021 gaagaatagc ttaaatgact gcagtaacca ggtaatattg gcaaaggcat ctcaggaaca
+     4081 tcaccttagt gaggaaacaa aatgttctgc tagcttgttt tcttcacagt gcagtgaatt
+     4141 ggaagacttg actgcaaata caaacaccca ggatcctttc ttgattggtt cttccaaaca
+     4201 aatgaggcat cagtctgaaa gccagggagt tggtctgagt gacaaggaat tggtttcaga
+     4261 tgatgaagaa agaggaacgg gcttggaaga aaataatcaa gaagagcaaa gcatggattc
+     4321 aaacttaggt gaagcagcat ctgggtgtga gagtgaaaca agcgtctctg aagactgctc
+     4381 agggctatcc tctcagagtg acattttaac cactcagcag agggatacca tgcaacataa
+     4441 cctgataaag ctccagcagg aaatggctga actagaagct gtgttagaac agcatgggag
+     4501 ccagccttct aacagctacc cttccatcat aagtgactct tctgcccttg aggacctgcg
+     4561 aaatccagaa caaagcacat cagaaaaagc agtattaact tcacagaaaa gtagtgaata
+     4621 ccctataagc cagaatccag aaggcctttc tgctgacaag tttgaggtgt ctgcagatag
+     4681 ttctaccagt aaaaataaag aaccaggagt ggaaaggtca tccccttcta aatgcccatc
+     4741 attagatgat aggtggtaca tgcacagttg ctctgggagt cttcagaata gaaactaccc
+     4801 atctcaagag gagctcatta aggttgttga tgtggaggag caacagctgg aagagtctgg
+     4861 gccacacgat ttgacggaaa catcttactt gccaaggcaa gatctagagg gaacccctta
+     4921 cctggaatct ggaatcagcc tcttctctga tgaccctgaa tctgatcctt ctgaagacag
+     4981 agccccagag tcagctcgtg ttggcaacat accatcttca acctctgcat tgaaagttcc
+     5041 ccaattgaaa gttgcagaat ctgcccagag tccagctgct gctcatacta ctgatactgc
+     5101 tgggtataat gcaatggaag aaagtgtgag cagggagaag ccagaattga cagcttcaac
+     5161 agaaagggtc aacaaaagaa tgtccatggt ggtgtctggc ctgaccccag aagaatttat
+     5221 gctcgtgtac aagtttgcca gaaaacacca catcacttta actaatctaa ttactgaaga
+     5281 gactactcat gttgttatga aaacagatgc tgagtttgtg tgtgaacgga cactgaaata
+     5341 ttttctagga attgcgggag gaaaatgggt agttagctat ttctgggtga cccagtctat
+     5401 taaagaaaga aaaatgctga atgagcatga ttttgaagtc agaggagatg tggtcaatgg
+     5461 aagaaaccac caaggtccaa agcgagcaag agaatcccag gacagaaaga tcttcagggg
+     5521 gctagaaatc tgttgctatg ggcccttcac caacatgccc acagatcaac tggaatggat
+     5581 ggtacagctg tgtggtgctt ctgtggtgaa ggagctttca tcattcaccc ttggcacagg
+     5641 tgtccaccca attgtggttg tgcagccaga tgcctggaca gaggacaatg gcttccatgc
+     5701 aattgggcag atgtgtgagg cacctgtggt gacccgagag tgggtgttgg acagtgtagc
+     5761 actctaccag tgccaggagc tggacaccta cctgataccc cagatccccc acagccacta
+     5821 ctgactgcag ccagccacag gtacagagcc acaggacccc aagaatgagc ttacaaagtg
+     5881 gcctttccag gccctgggag ctcctctcac tcttcagtcc ttctactgtc ctggctacta
+     5941 aatattttat gtacatcagc ctgaaaagga cttctggcta tgcaagggtc ccttaaagat
+     6001 tttctgcttg aagtctccct tggaaatctg ccatgagcac aaaattatgg taatttttca
+     6061 cctgagaaga ttttaaaacc atttaaacgc caccaattga gcaagatgct gattcattat
+     6121 ttatcagccc tattctttct attcaggctg ttgttggctt agggctggaa gcacagagtg
+     6181 gcttggcctc aagagaatag ctggtttccc taagtttact tctctaaaac cctgtgttca
+     6241 caaaggcaga gagtcagacc cttcaatgga aggagagtgc ttgggatcga ttatgtgact
+     6301 taaagtcaga atagtccttg ggcagttctc aaatgttgga gtggaacatt ggggaggaaa
+     6361 ttctgaggca ggtattagaa atgaaaagga aacttgaaac ctgggcatgg tggctcacgc
+     6421 ctgtaatccc agcactttgg gaggccaagg tgggcagatc actggaggtc aggagttcga
+     6481 aaccagcctg gccaacatgg tgaaacccca tctctactaa aaatacagaa attagccggt
+     6541 catggtggtg gacacctgta atcccagcta ctcaggtggc taaggcagga gaatcacttc
+     6601 agcccgggag gtggaggttg cagtgagcca agatcatacc acggcactcc agcctgggtg
+     6661 acagtgagac tgtggctcaa aaaaaaaaaa aaaaaaagga aaatgaaact agaagagatt
+     6721 tctaaaagtc tgagatatat ttgctagatt tctaaagaat gtgttctaaa acagcagaag
+     6781 attttcaaga accggtttcc aaagacagtc ttctaattcc tcattagtaa taagtaaaat
+     6841 gtttattgtt gtagctctgg tatataatcc attcctctta aaatataaga cctctggcat
+     6901 gaatatttca tatctataaa atgacagatc ccaccaggaa ggaagctgtt gctttctttg
+     6961 aggtgatttt tttcctttgc tccctgttgc tgaaaccata cagcttcata aataattttg
+     7021 cttgctgaag gaagaaaaag tgtttttcat aaacccatta tccaggactg tttatagctg
+     7081 ttggaaggac taggtcttcc ctagcccccc cagtgtgcaa gggcagtgaa gacttgattg
+     7141 tacaaaatac gttttgtaaa tgttgtgctg ttaacactgc aaataaactt ggtagcaaac
+     7201 acttccaaaa aaaaaaaaaa aaaa
+//
+
