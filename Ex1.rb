@@ -11,7 +11,7 @@ record = Bio::GenBank.new(File.open(ARGV[0]).read)
     aminoacids = Bio::Sequence.auto(record.to_biosequence.translate(frame))
     
     # Add description
-    aminoacids.definition = "PROTEIN ID: #{record.entry_id}, FRAME #{frame}"
+    aminoacids.definition = "mRNA ID: #{record.entry_id}, FRAME #{frame}"
     
     # Export file
     File.open("#{record.entry_id}$#{frame}.fas", 'w') do |file|

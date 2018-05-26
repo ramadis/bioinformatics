@@ -1,0 +1,116 @@
+Started Sat May 26 02:33:51 2018
+/nfs/public/ro/es/appbin/linux-x86_64/muscle-3.8.31/muscle -in muscle-I20180526-023349-0479-63424175-p2m.sequence -verbose -log muscle-I20180526-023349-0479-63424175-p2m.output -quiet -html -out muscle-I20180526-023349-0479-63424175-p2m.html 
+Alphabet Amino
+
+MUSCLE v3.8.31 by Robert C. Edgar
+http://www.drive5.com/muscle
+
+Profile-profile score    LE
+Max iterations           8
+Max trees                1
+Max time                 (No limit)
+Max MB                   4294966241
+Gap open                 -2.9
+Gap extend (dimer)       0
+Gap ambig factor         0
+Gap ambig penalty        -0
+Center (LE)              -0.52
+Term gaps                Half
+Smooth window length     7
+Refine window length     200
+Min anchor spacing       32
+Min diag length (lambda) 24
+Diag margin (mu)         5
+Min diag break           1
+Hydrophobic window       5
+Hydrophobic gap factor   1.2
+Smooth score ceiling     3
+Min best col score       2
+Min anchor score         1
+SUEFF                    0.1
+Brenner root MSA         False
+Normalize counts         True
+Diagonals (1)            False
+Diagonals (2)            False
+Anchors                  True
+MSF output format        False
+Phylip interleaved       False
+Phylip sequential        False
+ClustalW output format   False
+Catch exceptions         True
+Quiet                    True
+Refine                   False
+ProdfDB                  False
+Low complexity profiles  True
+Objective score          SPM
+Distance method (1)      Kmer6_6
+Clustering method (1)    UPGMB
+Root method (1)          Pseudo
+Sequence weighting (1)   ClustalW
+Distance method (2)      PctIdKimura
+Clustering method (2)    UPGMB
+Root method (2)          Pseudo
+Sequence weighting (2)   ClustalW
+
+Elapsed time 00:00:00  Peak memory use   11 MB(-1%)  Iteration   1 K-mer dist pass 1
+Elapsed time 00:00:00  Peak memory use   11 MB(-1%)  Iteration   1 K-mer dist pass 2
+Align: (XP_016785970.2 breast cancer type 1 susceptibility protein homolog isoform X2 [Pan troglodytes]) (NP_001288687.1 breast cancer type 1 susceptibility protein [Pan paniscus])
+Align: (. mRNA ID: NM_007294, FRAME 2) (XP_016785970.2 breast cancer type 1 susceptibility protein homolog isoform X2 [Pan troglodytes],NP_001288687.1 breast cancer type 1 susceptibility protein [Pan paniscus])
+Align: (XP_003778880.2 breast cancer type 1 susceptibility protein isoform X1 [Pongo abelii]) (. mRNA ID: NM_007294, FRAME 2,XP_016785970.2 breast cancer type 1 susceptibility protein homolog isoform X2 [Pan troglodytes],NP_001288687.1 breast cancer type 1 susceptibility protein [Pan paniscus])
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration   1 Align node
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration   1 Root alignment
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration   2 Root alignment
+Anchor columns found       50
+DP area saved by anchors   94.8%
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration   3 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration   4 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration   5 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration   6 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration   7 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration   8 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration   9 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  10 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  11 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  12 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  13 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  14 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  15 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  16 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  17 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  18 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  19 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  20 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  21 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  22 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  23 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  24 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  25 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  26 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  27 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  28 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  29 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  30 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  31 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  32 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  33 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  34 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  35 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  36 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  37 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  38 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  39 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  40 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  41 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  42 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  43 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  44 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  45 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  46 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  47 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  48 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  49 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  50 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  51 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  52 Refine biparts
+Elapsed time 00:00:01  Peak memory use   24 MB(-2%)  Iteration  53 Refine biparts
+Finished Sat May 26 02:33:52 2018
