@@ -47,7 +47,7 @@ The script `Ex5.rb` given a GenBank gene file (`BRCA1.gb` in this case) will gen
 bundle exec ruby Ex5.rb --orf BRCA1.gb BRCA1.orf
 ```
 
-On the the other hand, the same script also generate a domain analyisis for the given amino acid sequences, in a `FASTA` file. Its inputs are `--prosite`, the `FASTA` file, and the output file. To run this script you will need [the prosite database](ftp://ftp.expasy.org/databases/prosite/) downloaded in the root folder within a folder named `prosite`.
+On the the other hand, the same script also generate a domain analyisis for the given amino acid sequences, in a `FASTA` file. Its inputs are `--prosite`, the `FASTA` file, and the output file. To run this script you will need [the prosite database](ftp.expasy.org/databases/prosite/) downloaded in the root folder within a folder named `prosite`.
 
 ```
 bundle exec ruby Ex5.rb --prosite NM_007294\$1.fas analysis.prosite
@@ -57,7 +57,7 @@ bundle exec ruby Ex5.rb --prosite NM_007294\$1.fas analysis.prosite
 
 The code is developed to be non-dependant of the analyzed gene, making it a useful generic tool.
 
-To install EMBOSS download [the tar file](ftp://emboss.open-bio.org/pub/EMBOSS/EMBOSS-6.6.0.tar.gz), unzip it and then run:
+To install EMBOSS download [the tar file](emboss.open-bio.org/pub/EMBOSS/EMBOSS-6.6.0.tar.gz), unzip it and then run:
 
 ```
 ./configure --without-x
