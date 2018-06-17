@@ -3,3 +3,4 @@
 vendor/
 *.fas
 *.blas
+prosite/

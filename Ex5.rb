@@ -8,5 +8,6 @@ if type.eql? '--orf'
 end
 
 if type.eql? '--prosite'
-    Bio::EMBOSS.run('getorf', ARGV[1], ARGV[2])
+    Bio::EMBOSS.run('prosextract', 'prosite')
+    Bio::EMBOSS.run('patmatmotifs', ARGV[1], ARGV[2])
 end

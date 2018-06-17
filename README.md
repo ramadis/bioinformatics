@@ -11,6 +11,7 @@ We included in this repository a `report.pdf` which includes result analyisis, d
 * Ruby 2.0.0
 * Bundler
 * EMBOSS
+* Prosite database
 
 ### Set up
 The project was developed in Ruby. We used `Bundler` to install the required gems to run the project. The only gem we use in the development was `Bioruby` as recommended by the professor. So, to install the project we only have to install the required gem.
@@ -40,10 +41,16 @@ bundle exec ruby Ex2.rb NM_007294
 ### Excersise 5
 We developed a script that given the nucleotids sequence from a `GenBank` file, will return the possible amino acid sequences for each ORF.
 
-The script `Ex5.rb` given a GenBank gene file (`BRCA1.gb` in this case) will generate an output file (input) with all the possible amino acid sequeneces for each ORF.
+The script `Ex5.rb` given a GenBank gene file (`BRCA1.gb` in this case) will generate an output file (input) with all the possible amino acid sequeneces for each ORF. Its inputs are the option `--orf`, the `GenBank` file and the output file.
 
 ```
 bundle exec ruby Ex5.rb --orf BRCA1.gb BRCA1.orf
+```
+
+On the the other hand, the same script also generate a domain analyisis for the given amino acid sequences, in a `FASTA` file. Its inputs are `--prosite`, the `FASTA` file, and the output file. To run this script you will need [the prosite database](ftp://ftp.expasy.org/databases/prosite/) downloaded in the root folder within a folder named `prosite`.
+
+```
+bundle exec ruby Ex5.rb --prosite NM_007294\$1.fas analysis.prosite
 ```
 
 ### Notes
