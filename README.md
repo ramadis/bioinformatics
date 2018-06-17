@@ -10,6 +10,7 @@ We included in this repository a `report.pdf` which includes result analyisis, d
 
 * Ruby 2.0.0
 * Bundler
+* EMBOSS
 
 ### Set up
 The project was developed in Ruby. We used `Bundler` to install the required gems to run the project. The only gem we use in the development was `Bioruby` as recommended by the professor. So, to install the project we only have to install the required gem.
@@ -36,9 +37,26 @@ The script `Ex2.rb` given a mNRA id (`NM_007294` in this case) generate 6 files 
 bundle exec ruby Ex2.rb NM_007294
 ```
 
+### Excersise 5
+We developed a script that given the nucleotids sequence from a `GenBank` file, will return the possible amino acid sequences for each ORF.
+
+The script `Ex5.rb` given a GenBank gene file (`BRCA1.gb` in this case) will generate an output file (input) with all the possible amino acid sequeneces for each ORF.
+
+```
+bundle exec ruby Ex5.rb --orf BRCA1.gb BRCA1.orf
+```
+
 ### Notes
 
 The code is developed to be non-dependant of the analyzed gene, making it a useful generic tool.
+
+To install EMBOSS download [the tar file](ftp://emboss.open-bio.org/pub/EMBOSS/EMBOSS-6.6.0.tar.gz), unzip it and then run:
+
+```
+./configure --without-x
+make
+make install
+```
 
 ### Developers
 
