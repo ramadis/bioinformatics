@@ -38,6 +38,15 @@ The script `Ex2.rb` given a mNRA id (`NM_007294` in this case) generate 6 files 
 bundle exec ruby Ex2.rb NM_007294
 ```
 
+### Excersise 4
+We developed a script that given a pattern it searches for possible matches in the hits from a BLAST report.
+
+The script `Ex4.rb` given a BLAST file (`NM_007294$2.blas` in this case), an output file, and a pattern, generates a report with the matching hits with the given pattern and its FASTA file.
+
+```
+bundle exec ruby Ex4.rb NM_007294$2.blas NM_007294$2.matches SAPIENS --protein
+```
+
 ### Excersise 5
 We developed a script that given the nucleotids sequence from a `GenBank` file, will return the possible amino acid sequences for each ORF.
 
