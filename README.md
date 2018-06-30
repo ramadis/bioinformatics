@@ -44,7 +44,7 @@ We developed a script that given a pattern it searches for possible matches in t
 The script `Ex4.rb` given a BLAST file (`NM_007294$2.blas` in this case), an output file, and a pattern, generates a report with the matching hits with the given pattern and its FASTA file.
 
 ```
-bundle exec ruby Ex4.rb NM_007294$2.blas NM_007294$2.matches SAPIENS --protein
+bundle exec ruby Ex4.rb NM_007294$2.blas NM_007294$2.match SAPIENS --protein
 ```
 
 ### Excersise 5

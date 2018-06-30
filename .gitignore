@@ -6,3 +6,4 @@ vendor/
 prosite/
 *.prosite
 *.orf
+*.match
