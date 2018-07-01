@@ -4,7 +4,7 @@ Bioinformatic project for the namesake subject at ITBA. We chose as our gene to 
 
 ### Deliverables
 
-We included in this repository a `report.pdf` which includes result analyisis, development description and answers for the theoretic exercises (Such as 2b and 3 exercises). 
+We included in this repository a `Report.pdf` which includes result analyisis, development description and answers for the theoretic exercises (Such as 2b and 3 exercises). We also included a `Presentation.pdf` file, containing the slides to showcase our conclusions and our work in this project.
 
 ### Requirements
 
