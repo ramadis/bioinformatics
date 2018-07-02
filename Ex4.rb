@@ -19,7 +19,6 @@ File.open(output, 'w') do |f|
       # If there is a match with the pattern
       if hit.definition.upcase.index pattern
         f.puts '-------------------------------------------'
-        f.puts "Definition: #{hit.definition}"
         f.puts "Accession: #{hit.accession}"
         f.puts "Fasta sequence: "
 
