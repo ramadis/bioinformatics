@@ -44,7 +44,7 @@ We developed a script that given a pattern it searches for possible matches in t
 The script `Ex4.rb` given a BLAST file (`NM_007294$2.blas` in this case), an output file, and a pattern, generates a report with the matching hits with the given pattern and its FASTA file.
 
 ```
-bundle exec ruby Ex4.rb NM_007294$2.blas NM_007294$2.match SAPIENS --protein
+bundle exec ruby Ex4.rb NM_007294$2.xml NM_007294$2.match SAPIENS --protein
 ```
 
 ### Excersise 5
@@ -73,6 +73,8 @@ To install EMBOSS download [the tar file](emboss.open-bio.org/pub/EMBOSS/EMBOSS-
 make
 make install
 ```
+
+Since the changes made a few week ago to the BLAST tool, the BioRuby library is not working while doing remote queries to BLAST. Thus, Ex2.rb may not work if the issue was not fixed. Please follow the issue we opened on [BioRuby's github repository](https://github.com/bioruby/bioruby/issues/123) to keep updated.
 
 ### Developers
 
