@@ -8,7 +8,7 @@ We included in this repository a `Report.pdf` which includes result analyisis, d
 
 ### Requirements
 
-* Ruby 2.0.0
+* Ruby 2.5.1
 * Bundler
 * EMBOSS
 * Prosite database
@@ -32,7 +32,7 @@ bundle exec ruby Ex1.rb BRCA1.gb
 ### Excersise 2
 We have to run a BLAST for each one of the 6 possible amino acids sequences generated in the last exercise.
 
-The script `Ex2.rb` given a mNRA id (`NM_007294` in this case) generate 6 files with the results of the BLAST execution. It reads the files generated in the previous exercise and generate a file `<mNRA_ID>$<FRAME_NUM>.blas` with the report hits for each one.
+The script `Ex2.rb` given a mNRA id (`NM_007294` in this case) generate 6 files with the results of the BLAST execution. It reads the files generated in the previous exercise and generate a file `<mNRA_ID>$<FRAME_NUM>.blas` with the report hits for each one. (It's slow)
 
 ```
 bundle exec ruby Ex2.rb NM_007294
@@ -44,7 +44,7 @@ We developed a script that given a pattern it searches for possible matches in t
 The script `Ex4.rb` given a BLAST file (`NM_007294$2.blas` in this case), an output file, and a pattern, generates a report with the matching hits with the given pattern and its FASTA file.
 
 ```
-bundle exec ruby Ex4.rb NM_007294$2.xml NM_007294$2.match SAPIENS --protein
+bundle exec ruby Ex4.rb NM_007294\$2.blas NM_007294$2.match SAPIENS --protein
 ```
 
 ### Excersise 5
