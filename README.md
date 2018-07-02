@@ -20,6 +20,37 @@ The project was developed in Ruby. We used `Bundler` to install the required gem
 bundle install --path ./vendor/bundle
 ```
 
+**ALERT:** The last week there was a breaking change to the BLAST remote server (they started using https) and the BioRuby library is not working while doing remote queries to BLAST. Thus, `Ex2.rb` may not work if the issue was not fixed. Please follow the issue we opened on [BioRuby's github repository](https://github.com/bioruby/bioruby/issues/123) to keep updated.
+
+However we found a fix to the issue, but you will have to edit the code for the downloaded gem. After installing ruby gems, you will have to edit 2 files:
+
+On `vendor/bundle/ruby/2.5.0/gems/bio-1.5.1/lib/bio/appl/blast/genomenet.rb` change the line 214 (plus means add, minus means remove the line):
+
+```
+- http = Bio::Command.new_http(host)`) for:
++ http = Bio::Command.new_https(host) 
+```
+
+On `vendor/bundle/ruby/2.5.0/gems/bio-1.5.1/lib/bio/command.rb` add this code in line 793:
+
+```
+ def new_https(address, port = 443)
+    uri = URI.parse("https://#{address}")
+    # Note: URI#find_proxy is an unofficial method defined in open-uri.rb.
+    # If the spec of open-uri.rb would be changed, we should change below.
+    if proxyuri = uri.find_proxy then
+      raise 'Non-HTTP proxy' if proxyuri.class != URI::HTTP
+      Net::HTTP.new(address, port, proxyuri.host, proxyuri.port)
+    else
+      d= Net::HTTP.new(address, port)
+      d.use_ssl=true
+      d
+    end
+  end
+```
+
+This is a hackish solution but is enough to make Ex2.rb run.
+
 ### Excersise 1
 We have to read a nucleotids sequence from a mRNA from the BRCA1 gene in `GenBank` format. Then, translate this sequence to the possible amino acids sequences (given the 6 possible reading frames) and finally writing the output to `FASTA` files.
 
@@ -44,7 +75,7 @@ We developed a script that given a pattern it searches for possible matches in t
 The script `Ex4.rb` given a BLAST file (`NM_007294$2.blas` in this case), an output file, and a pattern, generates a report with the matching hits with the given pattern and its FASTA file.
 
 ```
-bundle exec ruby Ex4.rb NM_007294\$2.blas NM_007294$2.match SAPIENS --protein
+bundle exec ruby Ex4.rb NM_007294.xml NM_007294$2.match SAPIENS --protein
 ```
 
 ### Excersise 5
@@ -73,8 +104,6 @@ To install EMBOSS download [the tar file](emboss.open-bio.org/pub/EMBOSS/EMBOSS-
 make
 make install
 ```
-
-Since the changes made a few week ago to the BLAST tool, the BioRuby library is not working while doing remote queries to BLAST. Thus, Ex2.rb may not work if the issue was not fixed. Please follow the issue we opened on [BioRuby's github repository](https://github.com/bioruby/bioruby/issues/123) to keep updated.
 
 ### Developers
 
